@@ -1,0 +1,1826 @@
+/**extra extra large device css start**/
+@media (min-width: 1400px) {
+  * {
+    word-wrap: break-word;
+  }
+
+  /**nav css start**/
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+    padding-left: 19px;
+    font-size: 18px;
+  }
+  .navbar-nav .nav-item i {
+    font-size: 13px;
+    margin-left: 13px;
+  }
+  .nav-btn {
+    font-size: 18px;
+    padding: 14px 28px;
+    border-radius: 30px;
+  }
+  /**nav css end**/
+  /**banner css start**/
+  #banner {
+    padding: 190px 0px 254px 0px;
+  }
+  .banner-content h1 {
+    font-size: 84px;
+    line-height: 100px;
+  }
+  .banner-content p {
+    font-size: 24px;
+    line-height: 40px;
+    padding: 52px 188px 49px;
+  }
+  .btn-div button {
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 40px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 286px 0px;
+  }
+  #counter svg {
+    height: 258px;
+    width: 396px;
+    position: absolute;
+    top: 0px;
+    right: -25px;
+  }
+
+  .content h2 {
+    font-size: 64px;
+  }
+  .content h3 {
+    font-size: 36px;
+    margin-top: 28px;
+  }
+  .content {
+    padding: 0px 10px;
+  }
+  .line {
+    width: 2px;
+    right: -18px;
+  }
+  /**counter css end**/
+  /**choose css start**/
+  #choose svg {
+    width: 267px;
+    height: 234px;
+    top: 0;
+    left: 0;
+  }
+  .right-content p {
+    font-size: 18px;
+    line-height: 30px;
+    padding-right: 0;
+    margin: 28px 0px 35px 0px;
+  }
+  .right-content {
+    margin-left: 245px;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .right-content button {
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 15px 40px;
+  }
+  #choose .left-content {
+    margin-left: 50px;
+  }
+  .left-wrapper .circle {
+    width: 25px;
+    height: 25px;
+  }
+  .left-wrapper .circle::after {
+    width: 25px;
+    height: 25px;
+    right: -9px;
+  }
+
+  .left-wrapper .text p {
+    width: 283px;
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .left-wrapper {
+    width: 385px;
+    padding: 17px 0px 17px 14px;
+  }
+  .left-wrapper:hover {
+    margin: 32px 0px;
+  }
+  /**choose end**/
+  /**our work(what we do) sec start**/
+  .text-container1 p {
+    font-size: 18px;
+    line-height: 32px;
+    margin: 21px 0px 38px 0px;
+    padding-right: 18px;
+  }
+  .text-container1 button {
+    font-size: 17px;
+    padding: 13px 37px;
+    border-radius: 30px;
+  }
+  .card {
+    padding: 42px 10px;
+  }
+  .card h3 {
+    font-size: 30px;
+    margin: 15px 0px 16px;
+  }
+  .card p {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 57px;
+    margin-bottom: 30px;
+  }
+  .card button {
+    font-size: 20px;
+    padding: 10px 17px;
+  }
+  /**our work(what we do) end**/
+  /**create sec start**/
+  #create {
+    padding: 103px 0px 171px;
+  }
+
+  .create-content p {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 23px 0px 62px;
+    padding: 0 46px;
+  }
+  #create svg {
+    width: 428px;
+    height: 320px;
+    position: absolute;
+    bottom: -117px;
+    right: -1px;
+  }
+  .create-sec h3 {
+    font-size: 30px;
+  }
+  .create-sec p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 17px;
+    padding-right: 162px;
+  }
+
+  /**create sec end**/
+  /**plan sec start**/
+  #plan {
+    padding: 160px 0px;
+  }
+  .plan-card {
+    padding: 28px 0px;
+  }
+  .plan-card h3 {
+    font-size: 26px;
+  }
+  .plan-card h4 span {
+    font-size: 39px;
+    line-height: 40px;
+  }
+  .plan-card sup {
+    font-size: 19px;
+    line-height: 20px;
+  }
+  .plan-card li {
+    font-size: 16px;
+    margin: 13px 0px;
+  }
+  /**plan sec start**/
+  /**ratings sec start**/
+  .slider-content {
+    padding-bottom: 56px;
+  }
+  .slider-content p {
+    font-size: 24px;
+    line-height: 40px;
+    padding: 0px 133px;
+  }
+  .slider-content h5 {
+    font-size: 22px;
+    margin: 25px 0px 8px;
+  }
+  .slider-content p.designation {
+    font-size: 15px;
+  }
+  .star li i {
+    font-size: 19px;
+  }
+  .slider-btn {
+    width: 55px;
+    height: 55px;
+  }
+  .slider-btn i {
+    line-height: 55px;
+    font-size: 19px;
+  }
+  /**ratings sec end**/
+  /**news sec css start**/
+  #news svg {
+    width: 397px;
+    height: 360px;
+    position: absolute;
+    bottom: -35px;
+    left: -9px;
+  }
+  #news {
+    padding: 110px 0px 147px;
+  }
+  #news {
+    overflow: hidden;
+  }
+  h2.news-sec-heading {
+    padding-left: 335px;
+  }
+  .news-heading h3 {
+    font-size: 30px;
+    line-height: 55px;
+    padding-right: 29px;
+    margin: 17px 0px;
+  }
+  .news-label span {
+    font-size: 16px;
+  }
+  .read-more button {
+    font-size: 18px;
+    padding: 10px 18px;
+    line-height: 24px;
+  }
+  /**news sec css end**/
+  /**footer css start**/
+  .footer-left p {
+    font-size: 18px;
+    line-height: 30.4px;
+    margin-top: 28px;
+    padding-right: 122px;
+  }
+  footer {
+    padding: 88px 0px 52px;
+  }
+  .foot-items ul li h3 {
+    font-size: 18px;
+    margin-bottom: 17px;
+  }
+  .foot-items ul li {
+    font-size: 16px;
+    margin: 15px 0px;
+  }
+  .foot-bottom p {
+    font-size: 16px;
+    line-height: 32.4px;
+    margin-top: 30px;
+  }
+  .foot-bottom {
+    padding-top: 50px;
+  }
+  /**footer css start**/
+  h2 {
+    font-size: 48px;
+  }
+}
+
+/**extra extra large device css end**/
+/**extra large device css start**/
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+  * {
+    word-wrap: break-word;
+  }
+  /**nav css start**/
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+    padding-left: 19px;
+    font-size: 16px;
+  }
+  .navbar-nav .nav-item i {
+    font-size: 11px;
+    margin-left: 10px;
+  }
+  .nav-btn {
+    font-size: 17px;
+    padding: 10px 28px;
+    border-radius: 25px;
+  }
+  /**nav css end**/
+  /**banner css start**/
+  #banner {
+    padding: 204px 0px 248px 0px;
+  }
+  .banner-content h1 {
+    font-size: 70px;
+    line-height: 98px;
+  }
+  .banner-content p {
+    font-size: 22px;
+    line-height: 41px;
+    padding: 24px 128px 40px;
+  }
+  .btn-div button {
+    padding: 15px 48px;
+    font-size: 19px;
+    border-radius: 30px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 155px 0px;
+  }
+  #counter svg {
+    height: 232px;
+    width: 319px;
+    position: absolute;
+    top: 0px;
+    right: -25px;
+  }
+  .content h2 {
+    font-size: 40px;
+  }
+  .content h3 {
+    font-size: 22px;
+    margin-top: 16px;
+  }
+  .content {
+    padding: 0px 10px;
+  }
+  .line {
+    width: 2px;
+    right: -18px;
+  }
+  /**counter css end**/
+  /**choose css start**/
+  #choose svg {
+    width: 232px;
+    height: 206px;
+    top: 0;
+    left: 0;
+  }
+  .right-content {
+    margin-left: 60px;
+  }
+  .right-content p {
+    font-size: 16px;
+    line-height: 31px;
+    padding-right: 34px;
+    margin: 28px 0px 34px 0px;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .right-content h2 {
+    font-size: 38px;
+  }
+  .right-content button {
+    border-radius: 30px;
+    font-size: 20px;
+    padding: 9px 36px;
+  }
+  .left-wrapper .circle {
+    width: 22px;
+    height: 22px;
+  }
+  .left-wrapper .circle::after {
+    width: 22px;
+    height: 22px;
+    right: -10px;
+  }
+
+  .left-wrapper .text p {
+    width: 236px;
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .left-wrapper {
+    width: 334px;
+    padding: 17px 0px 17px 14px;
+  }
+  .left-wrapper:hover {
+    margin: 32px 0px;
+  }
+  /**choose end**/
+  /**our work(what we do) sec start**/
+  .text-container1 h2 {
+    font-size: 38px;
+  }
+  .text-container1 p {
+    font-size: 18px;
+    line-height: 32px;
+    margin: 21px 0px 38px 0px;
+    padding-right: 18px;
+  }
+  .text-container1 button {
+    font-size: 17px;
+    padding: 13px 37px;
+    border-radius: 30px;
+  }
+  .card {
+    padding: 42px 10px;
+  }
+  .card h3 {
+    font-size: 24px;
+    margin: 15px 0px 16px;
+  }
+  .card p {
+    font-size: 16px;
+    line-height: 32px;
+    padding: 0 43px;
+    margin-bottom: 17px;
+  }
+  .card button {
+    font-size: 18px;
+    padding: 8px 16px;
+  }
+  /**our work(what we do) end**/
+  /**create sec start**/
+  #create {
+    padding: 103px 0px 171px;
+  }
+  .create-content h2 {
+    font-size: 38px;
+  }
+  .create-content p {
+    font-size: 17px;
+    line-height: 34px;
+    margin: 23px 0px 62px;
+    padding: 0 11px;
+  }
+  #create svg {
+    width: 405px;
+    height: 294px;
+    position: absolute;
+    bottom: -117px;
+    right: -1px;
+  }
+  .create-sec h3 {
+    font-size: 22px;
+  }
+  .create-sec p {
+    font-size: 17px;
+    line-height: 34px;
+    margin-top: 17px;
+    padding-right: 107px;
+  }
+
+  /**create sec end**/
+  /**plan sec start**/
+  #plan {
+    padding: 160px 0px;
+  }
+  .plan-card {
+    padding: 28px 0px;
+  }
+  .plan-card h3 {
+    font-size: 26px;
+  }
+  .plan-card h4 span {
+    font-size: 39px;
+    line-height: 40px;
+  }
+  .plan-card sup {
+    font-size: 19px;
+    line-height: 20px;
+  }
+  .plan-card li {
+    font-size: 16px;
+    margin: 13px 0px;
+  }
+  /**plan sec start**/
+  /**ratings sec start**/
+  .slider-content {
+    padding-bottom: 35px;
+  }
+  .slider-content p {
+    font-size: 18px;
+    line-height: 36px;
+    padding: 0px 147px;
+  }
+  .slider-content h5 {
+    font-size: 22px;
+    margin: 25px 0px 8px;
+  }
+  .slider-content p.designation {
+    font-size: 15px;
+  }
+  .star li i {
+    font-size: 19px;
+  }
+  .slider-btn {
+    width: 55px;
+    height: 55px;
+  }
+  .slider-btn i {
+    line-height: 55px;
+    font-size: 19px;
+  }
+  /**ratings sec end**/
+  /**news sec css start**/
+  #news svg {
+    width: 344px;
+    height: 293px;
+    position: absolute;
+    bottom: -35px;
+    left: -9px;
+  }
+  #news {
+    padding: 110px 0px 147px;
+  }
+  #news {
+    overflow: hidden;
+  }
+  h2.news-sec-heading {
+    font-size: 38px;
+    padding-left: 191px;
+  }
+  .news-heading h3 {
+    font-size: 26px;
+    line-height: 39px;
+    padding-right: 29px;
+    margin: 17px 0px;
+  }
+  .news-label span {
+    font-size: 16px;
+  }
+  .read-more button {
+    font-size: 18px;
+    padding: 7px 16px;
+    line-height: 22px;
+  }
+  /**news sec css end**/
+  /**footer css start**/
+  .footer-left p {
+    font-size: 18px;
+    line-height: 30.4px;
+    margin-top: 28px;
+    padding-right: 122px;
+  }
+  footer {
+    padding: 88px 0px 52px;
+  }
+  .foot-items ul li h3 {
+    font-size: 18px;
+    margin-bottom: 17px;
+  }
+  .foot-items ul li {
+    font-size: 16px;
+    margin: 15px 0px;
+  }
+  .foot-bottom p {
+    font-size: 16px;
+    line-height: 32.4px;
+    margin-top: 30px;
+  }
+  .foot-bottom {
+    padding-top: 50px;
+  }
+  /**footer css start**/
+}
+/**extra large device css end**/
+/**large device css start**/
+@media (min-width: 992px) and (max-width: 1199.99px) {
+  * {
+    word-wrap: break-word;
+  }
+  /**nav css start**/
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+  }
+  .navbar-nav .nav-item i {
+    font-size: 9px;
+    margin-left: 8px;
+  }
+  .nav-btn {
+    font-size: 16px;
+    padding: 9px 23px;
+    border-radius: 25px;
+  }
+  /**nav css end**/
+  /**banner css start**/
+  #banner {
+    padding: 185px 0px 230px 0px;
+  }
+  .banner-content h1 {
+    font-size: 67px;
+    line-height: 80px;
+  }
+  .banner-content p {
+    font-size: 21px;
+    line-height: 38px;
+    padding: 24px 30px 40px;
+  }
+  .btn-div button {
+    padding: 13px 30px;
+    font-size: 17px;
+    border-radius: 30px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 130px 0px;
+  }
+  #counter svg {
+    height: 173px;
+    width: 295px;
+    position: absolute;
+    top: 0px;
+    right: -25px;
+  }
+  .content h2 {
+    font-size: 36px;
+  }
+  .content h3 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  .content {
+    padding: 0px 10px;
+  }
+  .line {
+    width: 2px;
+    right: -18px;
+  }
+  /**counter css end**/
+  /**choose css start**/
+  #choose svg {
+    width: 190px;
+    height: 168px;
+    top: 0;
+    left: 0;
+  }
+  .right-content {
+    margin-left: 70px;
+  }
+  .right-content p {
+    font-size: 14px;
+    line-height: 31px;
+    padding-right: 0;
+    margin: 9px 0px 35px 0px;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .right-content h2 {
+    font-size: 36px;
+  }
+  .right-content button {
+    border-radius: 20px;
+    font-size: 17px;
+    padding: 6px 20px;
+  }
+  .left-wrapper .circle {
+    width: 20px;
+    height: 20px;
+  }
+  .left-wrapper .circle::after {
+    width: 20px;
+    height: 20px;
+    right: -9px;
+  }
+
+  .left-wrapper .text p {
+    width: 220px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .left-wrapper {
+    width: 313px;
+    padding: 17px 0px 17px 0px;
+  }
+  .left-wrapper:hover {
+    margin: 32px 0px;
+  }
+  /**choose end**/
+  /**create sec start**/
+  .text-container1 h2 {
+    font-size: 36px;
+  }
+  .text-container1 p {
+    font-size: 17px;
+    line-height: 29px;
+    margin: 17px 0px 38px 0px;
+    padding-right: 20px;
+  }
+  .text-container1 button {
+    font-size: 16px;
+    padding: 12px 35px;
+    border-radius: 30px;
+  }
+  .card {
+    padding: 24px 10px;
+  }
+  .card h3 {
+    font-size: 22px;
+    margin: 13px 0px 9px;
+  }
+  .card p {
+    font-size: 14px;
+    line-height: 26px;
+    padding: 0 10px;
+    margin-bottom: 15px;
+  }
+  .card button {
+    font-size: 16px;
+    padding: 6px 16px;
+  }
+  .create-content h2 {
+    font-size: 36px;
+  }
+  .create-content p {
+    font-size: 15px;
+    line-height: 29px;
+    margin: 18px 0px 60px;
+    padding: 0 20px;
+  }
+  #create svg {
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    bottom: -117px;
+    right: -1px;
+  }
+  .create-sec h3 {
+    font-size: 20px;
+  }
+  .create-sec p {
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: 16px;
+    padding-right: 40px;
+  }
+  #create {
+    padding: 92px 0px 159px;
+  }
+  /**create sec end**/
+  /**plan sec start**/
+
+  .plan-card {
+    padding: 25px 0px;
+  }
+  .plan-card h3 {
+    font-size: 24px;
+  }
+  .plan-card h4 span {
+    font-size: 38px;
+    line-height: 44px;
+  }
+  .plan-card sup {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .plan-card li {
+    font-size: 14px;
+    margin: 6px 0px;
+  }
+  /**plan sec start**/
+  /**ratings sec start**/
+  .slider-content {
+    padding-bottom: 20px;
+  }
+  .slider-content p {
+    font-size: 17px;
+    line-height: 35px;
+    padding: 0px 42px;
+  }
+  .slider-content h5 {
+    font-size: 20px;
+    margin: 23px 0px 8px;
+  }
+  .slider-content p.designation {
+    font-size: 14px;
+  }
+  .slider-btn {
+    width: 55px;
+    height: 55px;
+  }
+  .slider-btn i {
+    line-height: 55px;
+    font-size: 19px;
+  }
+  /**ratings sec end**/
+  /**news sec css start**/
+  #news svg {
+    width: 245px;
+    height: 232px;
+    position: absolute;
+    bottom: -35px;
+    left: -9px;
+  }
+  #news {
+    padding: 100px 0px 135px;
+  }
+  #news {
+    overflow: hidden;
+  }
+  h2.news-sec-heading {
+    font-size: 38px;
+    padding-left: 190px;
+  }
+  .news-heading h3 {
+    font-size: 25px;
+    line-height: 34px;
+    padding-right: 29px;
+    margin: 15px 0px;
+  }
+  .news-label span {
+    font-size: 14px;
+  }
+  .read-more button {
+    font-size: 16px;
+    padding: 5px 14px;
+    line-height: 22px;
+  }
+  /**news sec css end**/
+  /**footer css start**/
+  .footer-left p {
+    font-size: 16px;
+    line-height: 30.4px;
+    margin-top: 28px;
+    padding-right: 70px;
+  }
+  footer {
+    padding: 76px 0px 25px;
+  }
+  .foot-items ul li h3 {
+    font-size: 15px;
+    margin-bottom: 16px;
+  }
+  .foot-items ul li {
+    font-size: 13px;
+    margin: 12px 0px;
+  }
+  .foot-bottom p {
+    font-family: var(--third-font);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 32.4px;
+    margin-top: 30px;
+    color: rgb(254, 254, 254, 0.9);
+  }
+  /**footer css start**/
+}
+/**large device css end**/
+
+/**medium device css start**/
+@media (min-width: 768px) and (max-width: 991.99px) {
+  * {
+    word-wrap: break-word;
+  }
+  /**nav bar css start**/
+  .navbar {
+    background-color: rgb(78, 71, 159);
+    padding: 10px 0px;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav .nav-item i {
+    display: none;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 8px 0px;
+    font-size: 19px;
+  }
+  .nav-btn {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    padding: 5px 0px;
+    border-radius: 15px;
+    margin: 10px 0px 15px;
+  }
+  /**nav bar css start**/
+  /**banner css start**/
+  #banner {
+    padding: 140px 0px 58px 0px;
+  }
+  .shape {
+    display: none;
+  }
+  .banner-content h1 {
+    font-size: 52px;
+    line-height: 75px;
+  }
+  .banner-content p {
+    font-size: 23px;
+    line-height: 47px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .btn-div button {
+    padding: 10px 44px;
+    font-size: 16px;
+    border-radius: 20px;
+  }
+  .btn1 {
+    margin-right: 6px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 50px 0px;
+  }
+  #counter svg {
+    display: none;
+  }
+  .content {
+    padding: 20px 0px;
+  }
+  .content h2 {
+    font-size: 36px;
+  }
+  .content h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .line {
+    width: 2px;
+    opacity: 19%;
+  }
+  /**counter css end**/
+  /**choose part css start**/
+  #choose {
+    padding: 40px 0;
+  }
+  #choose svg {
+    display: none;
+  }
+  .left-wrapper .text p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .left-wrapper .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+  }
+  .left-wrapper .circle::after {
+    width: 20px;
+    height: 20px;
+    right: -12px;
+    border-radius: 100%;
+  }
+
+  .right-content h2 {
+    font-size: 34px;
+  }
+  .right-content p {
+    font-size: 19px;
+    line-height: 40px;
+    padding: 0 15px;
+    text-align: center;
+    margin: 21px 0px 32px 0px;
+  }
+  .right-content {
+    text-align: center;
+    padding: 76px 0px;
+  }
+  .right-content button {
+    padding: 13px 94px;
+    border-radius: 10px;
+    font-size: 21px;
+  }
+
+  .left-wrapper {
+    width: 100%;
+    border-radius: 12px;
+    padding: 6px 12px;
+  }
+  .left-wrapper:hover {
+    margin: 30px 0px;
+    transform: scaleY(1);
+  }
+  /**choose part css end**/
+  /**our works part css start**/
+  #our-works {
+    padding: 50px 0px;
+  }
+
+  .text-container1 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .text-container1 h2 {
+    font-size: 35px;
+  }
+  .text-container1 p {
+    width: 100%;
+    font-size: 22px;
+    line-height: 36px;
+    padding-right: 0;
+    margin: 19px 0px 30px 0px;
+    padding: 0 10px;
+    text-align: center;
+  }
+  .text-container1 button {
+    padding: 13px 94px;
+    border-radius: 10px;
+    font-size: 21px;
+  }
+  .text-container {
+    margin: 10px 0px;
+  }
+  .card {
+    padding: 40px 5px;
+  }
+  .card h3 {
+    font-size: 30px;
+  }
+  .card p {
+    font-size: 21px;
+    line-height: 45px;
+    padding: 0 10px;
+  }
+  .card button {
+    font-size: 22px;
+    padding: 14px 20px;
+  }
+  .card h3 {
+    margin: 26px 0px 16px;
+  }
+  .left-wrapper .text p {
+    font-size: 15px;
+  }
+  /**our works part css end**/
+  /**create section css start**/
+  #create {
+    padding: 68px 0px 62px;
+  }
+  #create svg {
+    display: none;
+  }
+  .create-sec p {
+    font-size: 13px;
+    line-height: 22px;
+    padding-right: 0;
+    margin-top: 10px;
+  }
+
+  .create-sec {
+    text-align: start;
+  }
+  .create-sec h3 {
+    font-size: 25px;
+  }
+  .create-content h2 {
+    font-size: 35px;
+  }
+
+  .create-content p {
+    font-size: 18px;
+    line-height: 38px;
+    margin: 23px 0px 44px;
+    padding: 0;
+  }
+  /**create section css end**/
+  /**plan section css start**/
+  #plan {
+    padding: 80px 0px;
+  }
+  .plan-card {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    padding: 25px 0px 33px;
+  }
+  .plan-card h3 {
+    font-size: 28px;
+  }
+  .plan-card sup {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .plan-card h4 span {
+    font-size: 40px;
+    line-height: 42px;
+  }
+  .plan-card li {
+    font-size: 15px;
+    margin: 7px 0px;
+  }
+  .img-sec {
+    margin: 20px 0px 5px;
+    height: 167px;
+    line-height: 150px;
+  }
+  /**plan section css end**/
+  /**rating section css start**/
+  #rating {
+    padding: 85px 0px;
+  }
+  .slider-content p {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0px 10px;
+  }
+  .slider-content .star {
+    margin: 20px auto;
+  }
+  .slider-content .star li {
+    width: 8%;
+  }
+  .slider-content h5 {
+    font-size: 21px;
+    margin: 22px 0px 8px;
+  }
+  .slider-content {
+    padding-bottom: 17px;
+  }
+  /**rating section css end**/
+  /**news section css start**/
+  #news {
+    padding: 30px 0px 15px;
+  }
+  #news svg {
+    display: none;
+  }
+  .news-label {
+    margin: 30px 0 8px;
+  }
+  h2.news-sec-heading {
+    font-size: 35px;
+    padding-left: 0;
+  }
+  .news-heading h3 {
+    font-size: 24px;
+    line-height: 38px;
+    padding: 0 3px;
+    margin-bottom: 10px;
+  }
+  .news-content {
+    margin-left: 0px;
+  }
+  /**news section css end**/
+  /**footer section css start**/
+  footer {
+    padding: 24px 0px 15px;
+  }
+  .footer-left p {
+    font-size: 16px;
+    line-height: 25.4px;
+    margin-top: 24px;
+    padding: 10px;
+  }
+  .foot-items ul li {
+    font-size: 14px;
+    margin: 5px 0px;
+  }
+  .foot-items ul li h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .foot-bottom p {
+    font-size: 13px;
+    line-height: 15px;
+    margin-top: 13px;
+  }
+  /**footer section css end**/
+}
+/**medium device css end**/
+/***small device css start**/
+@media (min-width: 576px) and (max-width: 767.99px) {
+  * {
+    word-wrap: break-word;
+  }
+  /**nav bar css start**/
+  .navbar {
+    background-color: rgb(78, 71, 159);
+    padding: 10px 0px;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav .nav-item i {
+    display: none;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 8px 0px;
+    font-size: 19px;
+  }
+  .nav-btn {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    padding: 5px 0px;
+    border-radius: 15px;
+    margin: 10px 0px 15px;
+  }
+  /**nav bar css start**/
+  /**banner css start**/
+  #banner {
+    padding: 106px 0px 44px 0px;
+  }
+  .shape {
+    display: none;
+  }
+  .banner-content h1 {
+    font-size: 40px;
+    line-height: 60px;
+  }
+  .banner-content p {
+    font-size: 20px;
+    line-height: 38px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .btn-div button {
+    padding: 10px 44px;
+    font-size: 16px;
+    border-radius: 20px;
+  }
+  .btn1 {
+    margin-right: 6px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 50px 0px;
+  }
+  #counter svg {
+    display: none;
+  }
+  .content {
+    padding: 20px 0px;
+  }
+  .content h2 {
+    font-size: 44px;
+  }
+  .content h3 {
+    font-size: 23px;
+    margin-top: 10px;
+  }
+  .line {
+    display: none;
+  }
+  /**counter css end**/
+  /**choose part css start**/
+  #choose {
+    padding: 40px 0;
+  }
+  #choose svg {
+    display: none;
+  }
+  .left-wrapper .text p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .left-wrapper .circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+  }
+  .left-wrapper .circle::after {
+    width: 20px;
+    height: 20px;
+    right: -12px;
+    border-radius: 100%;
+  }
+
+  .right-content h2 {
+    font-size: 34px;
+  }
+  .right-content p {
+    font-size: 19px;
+    line-height: 40px;
+    padding: 0 15px;
+    text-align: center;
+    margin: 21px 0px 32px 0px;
+  }
+  .right-content {
+    text-align: center;
+    padding: 76px 0px;
+  }
+  .right-content button {
+    padding: 13px 94px;
+    border-radius: 10px;
+    font-size: 21px;
+  }
+
+  .left-wrapper {
+    width: 100%;
+    border-radius: 12px;
+    padding: 6px 12px;
+  }
+  .left-wrapper:hover {
+    margin: 30px 0px;
+    transform: scaleY(1);
+  }
+  /**choose part css end**/
+  /**our works part css start**/
+  #our-works {
+    padding: 50px 0px;
+  }
+  #our-works svg {
+    display: none;
+  }
+  .text-container1 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .text-container1 h2 {
+    font-size: 35px;
+  }
+  .text-container1 p {
+    width: 100%;
+    font-size: 22px;
+    line-height: 36px;
+    padding-right: 0;
+    margin: 19px 0px 30px 0px;
+    padding: 0 10px;
+    text-align: center;
+  }
+  .text-container1 button {
+    padding: 13px 94px;
+    border-radius: 10px;
+    font-size: 21px;
+  }
+  .text-container {
+    margin: 10px 0px;
+  }
+  .card {
+    padding: 40px 5px;
+  }
+  .card h3 {
+    font-size: 30px;
+  }
+  .card p {
+    font-size: 21px;
+    line-height: 45px;
+    padding: 0 10px;
+  }
+  .card button {
+    font-size: 22px;
+    padding: 14px 20px;
+  }
+  .card h3 {
+    margin: 26px 0px 16px;
+  }
+  .left-wrapper .text p {
+    font-size: 15px;
+  }
+  /**our works part css end**/
+  /**create section css start**/
+  #create {
+    padding: 68px 0px 62px;
+  }
+  #create svg {
+    display: none;
+  }
+  .create-sec p {
+    font-size: 13px;
+    line-height: 22px;
+    padding-right: 0;
+    margin-top: 10px;
+  }
+
+  .create-sec {
+    text-align: start;
+  }
+  .create-sec h3 {
+    font-size: 25px;
+  }
+  .create-content h2 {
+    font-size: 35px;
+  }
+
+  .create-content p {
+    font-size: 18px;
+    line-height: 38px;
+    margin: 23px 0px 44px;
+    padding: 0;
+  }
+  /**create section css end**/
+  /**plan section css start**/
+  #plan {
+    padding: 80px 0px;
+  }
+  .plan-card {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    padding: 25px 0px 33px;
+  }
+  .plan-card h3 {
+    font-size: 28px;
+  }
+  .plan-card sup {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .plan-card h4 span {
+    font-size: 40px;
+    line-height: 42px;
+  }
+  .plan-card li {
+    font-size: 15px;
+    margin: 7px 0px;
+  }
+  .img-sec {
+    margin: 20px 0px 5px;
+    height: 167px;
+    line-height: 150px;
+  }
+  /**plan section css end**/
+  /**rating section css start**/
+  #rating {
+    padding: 85px 0px;
+  }
+  .slider-content p {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0px 10px;
+  }
+  .slider-content .star {
+    margin: 20px auto;
+  }
+  .slider-content .star li {
+    width: 8%;
+  }
+  .slider-content h5 {
+    font-size: 21px;
+    margin: 22px 0px 8px;
+  }
+  .slider-content {
+    padding-bottom: 17px;
+  }
+  /**rating section css end**/
+  /**news section css start**/
+  #news {
+    padding: 30px 0px 15px;
+  }
+  .news-img-sec img {
+    height: 140px;
+  }
+  #news svg {
+    display: none;
+  }
+  .news-label {
+    margin: 30px 0 8px;
+  }
+  h2.news-sec-heading {
+    font-size: 35px;
+    padding-left: 0;
+  }
+  .news-heading h3 {
+    font-size: 24px;
+    line-height: 38px;
+    padding: 0 3px;
+    margin-bottom: 10px;
+  }
+  .news-content {
+    margin-left: 0px;
+  }
+  /**news section css end**/
+  /**footer section css start**/
+  footer {
+    padding: 24px 0px 15px;
+  }
+  .footer-left p {
+    font-size: 16px;
+    line-height: 25.4px;
+    margin-top: 24px;
+    padding: 10px;
+  }
+  .foot-items ul li {
+    font-size: 14px;
+    margin: 5px 0px;
+  }
+  .foot-items ul li h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .foot-bottom p {
+    font-size: 13px;
+    line-height: 15px;
+    margin-top: 13px;
+  }
+  /**footer section css end**/
+}
+
+/***small device css end**/
+
+/*****extra small device css start***/
+@media (max-width: 575.99px) {
+  * {
+    word-wrap: break-word;
+  }
+  /**nav bar css start**/
+  .navbar {
+    background-color: rgb(78, 71, 159);
+    padding: 5px 0px;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav .nav-item i {
+    display: none;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 5px 0px;
+    font-size: 15px;
+  }
+  .nav-btn {
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    width: 100%;
+    padding: 5px 0px;
+    border-radius: 15px;
+    margin: 10px 0px 15px;
+  }
+  /**nav bar css start**/
+  /**banner css start**/
+  #banner {
+    padding: 100px 0px 40px 0px;
+  }
+  .shape {
+    display: none;
+  }
+  .banner-content h1 {
+    font-size: 33px;
+    line-height: 52px;
+  }
+  .banner-content p {
+    font-size: 15px;
+    line-height: 34px;
+    padding: 10px;
+  }
+  .btn-div button {
+    padding: 5px 10px;
+    font-size: 13px;
+    border-radius: 20px;
+  }
+  .btn1 {
+    margin-right: 6px;
+  }
+  /**banner css end**/
+  /**counter css start**/
+  #counter {
+    padding: 45px 0px;
+  }
+  #counter svg {
+    display: none;
+  }
+  .content {
+    padding: 20px 0px;
+  }
+  .content h2 {
+    font-size: 35px;
+  }
+  .content h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .line {
+    display: none;
+  }
+  /**counter css end**/
+  /**choose part css start**/
+  #choose {
+    padding: 30px 0;
+  }
+  #choose svg {
+    display: none;
+  }
+  .left-wrapper .text p {
+    width: 100%;
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .left-wrapper .circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+  .left-wrapper .circle::after {
+    width: 10px;
+    height: 10px;
+    right: -7px;
+    border-radius: 100%;
+  }
+
+  .right-content h2 {
+    font-size: 26px;
+  }
+  .right-content p {
+    font-size: 15px;
+    line-height: 26px;
+    padding: 0 15px;
+    text-align: center;
+    margin: 9px 0px 15px 0px;
+  }
+  .right-content {
+    text-align: center;
+    padding: 40px 0px;
+  }
+  .right-content button {
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+
+  .left-wrapper {
+    width: 100%;
+    border-radius: 12px;
+    padding: 6px 12px;
+  }
+  .left-wrapper:hover {
+    margin: 30px 0px;
+    transform: scaleY(1);
+  }
+  /**choose part css end**/
+  /**our works part css start**/
+  #our-works {
+    padding: 30px 0px;
+  }
+  #our-works svg {
+    display: none;
+  }
+  .text-container1 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .text-container1 h2 {
+    font-size: 35px;
+  }
+  .text-container1 p {
+    width: 100%;
+    font-size: 18px;
+    line-height: 22px;
+    padding-right: 0;
+    margin: 15px 0px 25px 0px;
+    padding: 0 10px;
+    text-align: center;
+  }
+  .text-container1 button {
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .text-container {
+    margin: 10px 0px;
+  }
+  .card {
+    padding: 35px 5px 24px;
+  }
+  .card h3 {
+    font-size: 26px;
+  }
+  .card p {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 0 10px;
+  }
+  .card button {
+    font-size: 16px;
+  }
+  .card h3 {
+    margin: 26px 0px 16px;
+  }
+  .left-wrapper .text p {
+    font-size: 15px;
+  }
+  /**our works part css end**/
+  /**create section css start**/
+  #create {
+    padding: 32px 0px 47px;
+  }
+  #create svg {
+    display: none;
+  }
+  .create-sec p {
+    font-size: 15px;
+    line-height: 28px;
+    padding-right: 0;
+  }
+
+  .create-sec {
+    text-align: center;
+  }
+  .create-sec h3 {
+    font-size: 28px;
+  }
+  .create-content h2 {
+    font-size: 35px;
+  }
+  .create-content p {
+    font-size: 15px;
+    line-height: 28px;
+    margin: 17px 0px 40px;
+    padding: 0;
+  }
+  /**create section css end**/
+  /**plan section css start**/
+  #plan {
+    padding: 50px 0px;
+  }
+  .plan-card {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    padding: 20px 0px 10px;
+  }
+  .plan-card h3 {
+    font-size: 28px;
+  }
+  .plan-card sup {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .plan-card h4 span {
+    font-size: 40px;
+    line-height: 42px;
+  }
+  .plan-card li {
+    font-size: 15px;
+    margin: 7px 0px;
+  }
+  .img-sec {
+    margin: 20px 0px 5px;
+    height: 167px;
+    line-height: 150px;
+  }
+  /**plan section css end**/
+  /**rating section css start**/
+  #rating {
+    padding: 55px 0px;
+  }
+  .slider-content p {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0px 10px;
+  }
+  .slider-content .star {
+    margin: 20px auto;
+  }
+  .slider-content .star li {
+    width: 8%;
+  }
+  .slider-content h5 {
+    font-size: 21px;
+    margin: 22px 0px 8px;
+  }
+  .slider-content {
+    padding-bottom: 17px;
+  }
+  /**rating section css end**/
+  /**news section css start**/
+  #news {
+    padding: 30px 0px 15px;
+  }
+  #news svg {
+    display: none;
+  }
+  .news-heading h3 {
+    font-size: 24px;
+    line-height: 38px;
+    padding: 0 20px;
+    margin-bottom: 10px;
+  }
+  .news-label {
+    margin: 30px 0 8px;
+  }
+  h2.news-sec-heading {
+    font-size: 40px;
+    padding-left: 0;
+  }
+  /**news section css end**/
+  /**footer section css start**/
+  footer {
+    padding: 24px 0px 15px;
+  }
+  .footer-left p {
+    font-size: 15px;
+    line-height: 25.4px;
+    margin-top: 24px;
+    padding: 10px;
+  }
+  .foot-items ul li {
+    font-size: 15px;
+    margin: 5px 0px;
+  }
+  .foot-items ul li h3 {
+    font-size: 20px;
+    margin-bottom: 11px;
+  }
+  .foot-bottom p {
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 13px;
+  }
+  /**footer section css end**/
+}
+/*****extra small device css end***/
